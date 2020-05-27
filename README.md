@@ -14,7 +14,7 @@ single sign on for google authentication
 # configuration #
    * open  ***src/main/resources/application.properties***
    * generate client_id and secret_id here ***https://console.developers.google.com/apis/dashboard***
-   * provide property **spring.security.oauth2.client.registration.google.client-id***
+   * provide property ***spring.security.oauth2.client.registration.google.client-id***
    * provide property ***spring.security.oauth2.client.registration.google.client-secret***
 
 # Run #
