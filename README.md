@@ -1,5 +1,5 @@
 # Google-SSO
-single sign on for google authentication
+single sign on for google authentication [![Build Status](https://travis-ci.org/chandra-prakash-reddy/Google-SSO.svg?branch=master)](https://travis-ci.org/chandra-prakash-reddy/Google-SSO)
 
 # PreRequisites # 
    * Install Java8
