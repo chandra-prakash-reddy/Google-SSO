@@ -20,7 +20,7 @@ single sign on for google authentication
 # Run #
    * move to project root directory
    * run ***mvn verify*** 
-   * run ***java -jar target/*.jar --server.port=<port\>***
+   * run ***java -jar target/*.jar --server.port=<port\>**
       * example: java -jar target/*.jar --server.port=7878
   
 # Demo #
